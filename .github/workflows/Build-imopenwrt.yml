@@ -4,7 +4,7 @@
 # Author: kenzo
 #=================================================
 
-name: immopenwrt_23.05
+name: openwrt_23.05
 
 on:
   repository_dispatch:
